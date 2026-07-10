@@ -19,4 +19,3 @@ GDB调试器|GDB调试器全文|2026-07-10_GDB调试器.md
 ## PDF: Linux应用软件编程 (1).pdf
 
 ## PDF: 单片机day02.pdf
-单片机day02|GPIO/中断/定时器/PWM/蜂鸣器|2026-07-10_单片机day02.pdf
