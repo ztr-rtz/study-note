@@ -17,5 +17,6 @@ Linux环境基础|Ubuntu基本使用+Shell命令+GCC+进制转换|2026-06-30_Lin
 GDB调试器|GDB调试器全文|2026-07-10_GDB调试器.md
 
 ## PDF: Linux应用软件编程 (1).pdf
+文件编程IO|一、文件编程（IO）|2026-07-13_文件编程IO.md
 
 ## PDF: 单片机day02.pdf
