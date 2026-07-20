@@ -26,3 +26,6 @@ Linux网络编程|三、Linux网络编程|2026-07-14_Linux网络编程.md
 
 ## PDF: 2026-07-16_汇编指令_问答版.pdf
 立即数|Q1 什么是立即数？|2026-07-17_立即数.md
+
+## PDF: ARM day3.pdf + 我的ARM.pdf (用户指定整理)
+ARM工具链与内存段|交叉工具链gcc/ld/objcopy/objdump + .text/.data/.bss/COMMON/.rodata段|2026-07-20_ARM工具链与内存段.md
