@@ -32,3 +32,6 @@ ARM工具链与内存段|交叉工具链gcc/ld/objcopy/objdump + .text/.data/.bs
 
 ## PDF: 中断.pdf (用户指定整理)
 ARM中断机制|中断6步流程+GIC架构+cp15+异常向量表+CPSR控制+GPIO按键配置|2026-07-21_ARM中断机制.md
+
+## PDF: 时钟树.pdf (用户指定整理)
+时钟树与GIC优先级|PLL/Prescaler/PFD作用+SOC时钟配置三件套+GIC 256级/IMX6ULL 32级优先级|2026-07-22_时钟树与GIC优先级.pdf
